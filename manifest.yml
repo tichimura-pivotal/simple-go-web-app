@@ -1,6 +1,6 @@
 ---
 applications:
-- name: simple-go-web-app
+- name: simple-go-web-${random-words}
   disk: 256M
   memory: 128M
   random-route: true

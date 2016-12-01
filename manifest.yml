@@ -1,6 +1,6 @@
 ---
 applications:
-- name: simple-go-web-${random-words}
+- name: simple-go-web-ichi
   disk: 256M
   memory: 128M
   random-route: true
